@@ -12,7 +12,7 @@ Feel free to copy and use any of the code for your own bots.
 
 INSTRUCTIONS:
 
-1. Create a bot folder (name if anything you want but avoid spaces, for example name it "GoodBot") on your computer, copy all files from here and paste them into your folder. 
+1. Create a bot folder (name it anything you want but avoid spaces, for example "GoodBot") on your computer, copy all files from here and paste them into your bot folder. 
 
 2. To use this bot you need node.js (https://nodejs.org/en/) installed. After that, while inside your bot folder in a terminal(command prompt), run the two following commands:
 - npm init
