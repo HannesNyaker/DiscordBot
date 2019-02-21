@@ -12,15 +12,17 @@ Feel free to copy and use any of the code for your own bots.
 
 INSTRUCTIONS:
 
-1. To use this bot you need node.js (https://nodejs.org/en/) installed. After that, while inside your bot folder in a terminal(command prompt), run the two following commands:
+1. Create a bot folder (name if anything you want but avoid spaces, for example name it "GoodBot") on your computer, copy all files from here and paste them into your folder. 
+
+2. To use this bot you need node.js (https://nodejs.org/en/) installed. After that, while inside your bot folder in a terminal(command prompt), run the two following commands:
 - npm init
 - npm install discord.js --save
 
-2. You need to declare the token in the botconfig.json file as your own bot token (found on the discord website) in order to make your bot work.
+3. You need to declare the token in the botconfig.json file as your own bot token (found on the discord website) in order to make your bot work.
 
-3. While inside the bot folder in a terminal(command prompt), make the bot go online by typing:
+4. While inside the bot folder in a terminal(command prompt), make the bot go online by typing:
 - node .
 
-4. Inside a text channel on your Discord sever, type !commands to get a list of all the bot's commands. Enjoy!
+5. Inside a text channel on your Discord sever, type !commands to get a list of all the bot's commands. Enjoy!
 
 Feel free to message me if you have any questions!
